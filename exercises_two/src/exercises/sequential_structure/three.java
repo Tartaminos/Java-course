@@ -1,3 +1,4 @@
+package exercises.sequential_structure;
 import java.util.Scanner;
 
 public class three {
